@@ -458,3 +458,10 @@ User log-in attempt: test, Date: 2022-05-23, Time: 15:14:13.964758600 - SUCCESS
 User log-in attempt: test, Date: 2022-05-23, Time: 15:14:54.145888 - SUCCESS
 User log-in attempt: test, Date: 2022-05-23, Time: 15:31:52.142581900 - SUCCESS
 User log-in attempt: test, Date: 2022-05-23, Time: 16:36:53.837267100 - SUCCESS
+User log-in attempt: test, Date: 2022-05-23, Time: 22:09:27.083504800 - SUCCESS
+User log-in attempt: test, Date: 2022-05-23, Time: 22:19:28.023960800 - SUCCESS
+User log-in attempt: admin, Date: 2022-05-24, Time: 13:06:28.990996200 - SUCCESS
+User log-in attempt: test, Date: 2022-05-24, Time: 13:14:09.959125 - SUCCESS
+User log-in attempt: test, Date: 2022-05-24, Time: 13:55:01.837325100 - SUCCESS
+User log-in attempt: test, Date: 2022-05-24, Time: 13:57:53.053238700 - SUCCESS
+User log-in attempt: test, Date: 2022-05-24, Time: 14:33:40.818682900 - SUCCESS
