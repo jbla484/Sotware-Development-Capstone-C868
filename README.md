@@ -87,3 +87,7 @@ Your work for this task will not be evaluated until the appropriate forms from T
 #### D.   Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
 
 #### E.   Demonstrate professional communication in the content and presentation of your submission.
+
+## Evaluator Comments:
+
+"You clearly summarize a proposal to implement the WeSchedule application following the Agile methodology with clear details of the gaps the application addresses to provide a system to eliminate errors and missed notifications due to bugs in the system for the organization." "The existing gaps the solution addresses to eliminate errors and missed notifications due to bugs in the system is provided to support the development of the new solution."
